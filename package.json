@@ -1,11 +1,4 @@
 {
-  "dependencies": {
-    "build": "^0.1.4",
-    "node.js": "^0.0.1-security",
-    "next": "13.1.6",
-    "react": "18.0.2",
-    "react-dom": "18.0.2"
-  },
   "name": "clone-tabnews",
   "version": "1.0.0",
   "description": "Implementacao do https://www.tabnew.com.br para o https://curso.dev",
